@@ -1,0 +1,29 @@
+body {
+    font-family: DM Sans, sans-serif;
+}
+
+
+.contentDiv {
+    background-color: #111315;
+    color: #FEF7EE;
+}
+
+.topDescription {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    color: #FEF7EE;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+}
